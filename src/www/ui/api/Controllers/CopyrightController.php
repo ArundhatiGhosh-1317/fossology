@@ -1,7 +1,7 @@
 <?php
 /*
- Author: Soham Banerjee <sohambanerjee4abc@hotmail.com>
- SPDX-FileCopyrightText: © 2023 Soham Banerjee <sohambanerjee4abc@hotmail.com>
+ Author: A G <sohambanerjee4abc@hotmail.com>
+ SPDX-FileCopyrightText: © 2023 A G <sohambanerjee4abc@hotmail.com>
  SPDX-License-Identifier: GPL-2.0-only
 */
 
